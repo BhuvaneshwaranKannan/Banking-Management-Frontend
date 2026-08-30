@@ -41,7 +41,7 @@ function Home() {
         
         <div className="home-container">
           <div className="home-container-header">
-            Quick Actions
+            Quick 
           </div>
           <button className="icon-container" type="button">
             <i className="main-icon bi bi-wallet2"></i>
